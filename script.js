@@ -13,7 +13,7 @@ if (ano) {
   ano.textContent = new Date().getFullYear();
 }
 
-const SUPABASE_URL = "https://SEU-PROJETO.supabase.co";
+const SUPABASE_URL = "https://cdqcamkwdfqgdqleqgbb.supabase.co";
 
 const form = document.getElementById("form-contato");
 const aviso = document.getElementById("form-aviso");
